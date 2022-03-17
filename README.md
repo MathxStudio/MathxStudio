@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MathxStudio/MathxStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 1. Some basic info.
 
-Here are some ideas to get you started:
+My name is Allan Pan, and I'm currently a high school student. My hobby is science, with **Maths** and **Programming** in particular. I like exchanging ideas and making friends with interesting people, so feel free to send me a message by email to `mathxstudio@gmail.com`!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my LaTeX stule project and the website of my own.
+- 🌱 I’m currently learning C++/C, Python, and other languages, especially those linked to **Data Analysis**, and also Maths
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Maths or basic programming stuff. I'll be online on an **irregular** basis.
+- 📫 How to reach me: My email is `mathxstudio@gmail.com`.
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: THE MASTER OF SIMULATION (doge
+
+#### 2. Interesting stuff
