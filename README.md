@@ -14,4 +14,4 @@ My name is Allan Pan, and I'm currently a high school student. My hobby is scien
 - ⚡ Fun fact: THE MASTER OF SIMULATION (doge
 
 ### 2. My Github status
-[![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathxstudio)](https://github.com/anuraghazra/github-readme-stats)
+![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathxstudio&show_icons=true&theme=radical)
