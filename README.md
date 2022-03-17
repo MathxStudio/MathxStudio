@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-#### 1. Some basic info.
+### 1. Some basic info.
 
 My name is Allan Pan, and I'm currently a high school student. My hobby is science, with **Maths** and **Programming** in particular. I like exchanging ideas and making friends with interesting people, so feel free to send me a message by email to `mathxstudio@gmail.com`!
 
@@ -13,4 +13,4 @@ My name is Allan Pan, and I'm currently a high school student. My hobby is scien
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: THE MASTER OF SIMULATION (doge
 
-#### 2. Interesting stuff
+### 2. Interesting stuff
