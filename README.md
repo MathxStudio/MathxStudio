@@ -15,4 +15,5 @@ My name is Allan Pan, and I'm currently a high school student. My hobby is scien
 
 ### 2. My Github status
 ![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathxstudio&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathxstudio&repo=github-readme-stats&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathxstudio&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
