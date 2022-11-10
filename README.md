@@ -26,4 +26,5 @@ My name is Allan Pan, and I'm currently a high school student. My hobby is scien
 ### 3. We are serious programmers.
 <img src="https://user-images.githubusercontent.com/68184967/159121666-60aac23f-83c1-45c5-b9af-6adeb89b7d4e.jpg" alt="amusing" height="200"/>
 <img src="https://user-images.githubusercontent.com/68184967/161976106-9f60f40e-56f3-495f-8f8b-f9e42e0e4131.gif" alt="amusing" height="200"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MathxStudio&theme=dark)](https://git.io/streak-stats)
 <img src="https://user-images.githubusercontent.com/68184967/159121877-7fbfcf93-59ba-4a58-8492-7b4203202a82.gif" alt="amusing" height="200"/>
