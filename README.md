@@ -17,15 +17,15 @@ My name is Allan Pan, and I'm currently a high school student. My hobby is scien
 
 <img src="https://github-readme-stats.vercel.app/api?username=mathxstudio&show_icons=true&theme=radical" alt="stats" width="500"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mathxstudio&repo=LaTeX-Templates&theme=radical" alt="readme" width="500"/>
-
 <img src="https://streak-stats.demolab.com/?user=MathxStudio&theme=dark">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxstudio&layout=compact&theme=radical" alt="langs" width="500"/>
 
+### 3. My Projects
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mathxstudio&repo=LaTeX-Templates&theme=radical" alt="readme" width="500"/>
 
-### 3. We are serious programmers.
+### 4. We are serious programmers.
 <img src="https://user-images.githubusercontent.com/68184967/159121666-60aac23f-83c1-45c5-b9af-6adeb89b7d4e.jpg" alt="amusing" height="200"/>
 <img src="https://user-images.githubusercontent.com/68184967/161976106-9f60f40e-56f3-495f-8f8b-f9e42e0e4131.gif" alt="amusing" height="200"/>
 <img src="https://user-images.githubusercontent.com/68184967/159121877-7fbfcf93-59ba-4a58-8492-7b4203202a82.gif" alt="amusing" height="200"/>
