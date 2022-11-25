@@ -21,6 +21,8 @@ My name is Allan Pan, and I'm currently a high school student. My hobby is scien
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxstudio&layout=compact&theme=radical" alt="langs" width="500"/>
 
+[![wakatime](https://wakatime.com/badge/user/d506f30d-1cb8-4dfe-9bef-0a1db035474e.svg)](https://wakatime.com/@d506f30d-1cb8-4dfe-9bef-0a1db035474e)
+
 ### 3. My Projects
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mathxstudio&repo=LaTeX-Templates&theme=radical" alt="readme" width="500"/>
