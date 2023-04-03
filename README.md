@@ -4,7 +4,7 @@
 
 My name is Allan Pan, and I'm currently a high school student. My hobby is science, with **Maths** and **Programming** in particular. I like exchanging ideas and making friends with interesting people, so feel free to send me a message by email to `mathxstudio@gmail.com`!
 
-- 🔭 I’m currently working on my LaTeX stule project and the website of my own.
+- 🔭 I’m currently working on my LaTeX style project and the website of my own.
 - 🌱 I’m currently learning C++/C, Python, and other languages, especially those linked to **Data Analysis**, and also Maths
 - 👯 I’m looking to collaborate on my personal website.
 - 🤔 I’m looking for help with html/CSS/JavaScript.
